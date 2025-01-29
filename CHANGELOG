@@ -1,10 +1,13 @@
 The Dark Hordes - changelog
 ---------------------------
 
-Version 0.7.3+dev
+Version 0.7.4
 - General:
     * Repository moved to GitHub by KameRamen;
       svn repository is closed
+    * Only files added:
+        + utils/bigmap.cfg
+        + achievements.cfg
 
 Version 0.7.3
 - General:
