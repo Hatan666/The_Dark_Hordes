@@ -1,6 +1,11 @@
 The Dark Hordes - changelog
 ---------------------------
 
+Version 0.7.3+dev
+- General:
+    * Repository moved to GitHub by KameRamen;
+      svn repository is closed
+
 Version 0.7.3
 - General:
     * Removed line breaking in metadata
